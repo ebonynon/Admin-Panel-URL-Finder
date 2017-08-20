@@ -10,7 +10,7 @@ import httplib
 import socket
 import sys
 import webbrowser
-webbrowser.open('https://github.com/akalankauk')
+#webbrowser.open('https://github.com/akalankauk')
 
 try:
     print "\t                 #############################"
